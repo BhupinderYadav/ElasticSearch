@@ -1,2 +1,2 @@
 # ElasticSearch
-Python API for ElasticSearch
+API for ElasticSearch using Python
